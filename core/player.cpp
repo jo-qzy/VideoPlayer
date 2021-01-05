@@ -16,7 +16,3 @@ extern "C" {
 #endif
 
 
-int main()
-{
-    return 0;
-}
